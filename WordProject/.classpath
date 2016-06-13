@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_77"/>
+	<classpathentry kind="lib" path="E:/DeveloperTools/sqljdbc_4.0/enu/sqljdbc4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="E:/DeveloperTools/sqljdbc_4.0/enu"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/DeveloperTools/jfreeChart/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="E:/DeveloperTools/jfreeChart/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="E:/DeveloperTools/jfreeChart/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
